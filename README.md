@@ -1,16 +1,47 @@
-# fitness
+# FitnessDiet (Flutter Beginner Project)
 
-A new Flutter project.
+## 📌 Overview
+Ini adalah proyek pertama saya dalam belajar Flutter. Proyek ini saya kerjakan dengan mengikuti tutorial dari salah satu video di YouTube untuk memahami dasar-dasar pengembangan aplikasi menggunakan Flutter. 
 
-## Getting Started
+Proyek ini dibuat sebagai langkah awal dalam eksplorasi framework Flutter untuk membangun aplikasi mobile yang sederhana.
 
-This project is a starting point for a Flutter application.
+## 🚀 Teknologi yang Digunakan
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Preview Aplikasi
+![Deskripsi Gambar](Screenshot_1739363649.png)
+![Deskripsi Gambar](Screenshot_1739363630.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Tujuan Proyek
+- Mempelajari dasar-dasar Flutter
+- Memahami struktur proyek Flutter
+- Mengimplementasikan state management sederhana
+- Mencoba menjalankan aplikasi di emulator dan perangkat fisik
+
+## 🔧 Cara Menjalankan
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/rivandimizwar/FitnessDiet.git
+   ```
+2. Masuk ke direktori proyek:
+   ```bash
+   cd FitnessDiet
+   ```
+3. Jalankan perintah berikut untuk menginstall dependency:
+   ```bash
+   flutter pub get
+   ```
+4. Jalankan aplikasi:
+   ```bash
+   flutter run
+   ```
+
+## 📌 Catatan
+- Proyek ini hanya untuk keperluan belajar dan eksplorasi awal.
+- Jika ingin berkontribusi atau memberikan saran, silakan buat issue atau pull request.
+
+---
+📌 **Author**: Rivandi Mizwar
+📅 **Tanggal Mulai**: Februari 2025
