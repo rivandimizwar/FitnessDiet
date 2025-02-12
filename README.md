@@ -10,9 +10,10 @@ Proyek ini dibuat sebagai langkah awal dalam eksplorasi framework Flutter untuk 
 - Dart
 
 ## 📷 Preview Aplikasi
-![Deskripsi Gambar](Screenshot_1739363649.png)
-![Deskripsi Gambar](Screenshot_1739363630.png)
-
+<p align="center">
+  <img src="Screenshot_1739363649.png" alt="Screenshot 1" width="45%"/>
+  <img src="Screenshot_1739363630.png" alt="Screenshot 2" width="45%"/>
+</p>
 
 ## 🎯 Tujuan Proyek
 - Mempelajari dasar-dasar Flutter
